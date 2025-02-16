@@ -43,7 +43,6 @@ Here are some of the technologies and tools I work with:
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](Your LinkedIn Profile URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](Your Twitter Profile URL)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:mmonira207@gmail.com)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate.
